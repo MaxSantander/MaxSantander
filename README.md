@@ -43,6 +43,10 @@ Entwickler von Software mit Erfahrung in Webentwicklung und Systemadministration
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
+### ☁️ Container & Orchestrierung
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ### 🔌 Weitere Tools & Services
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Django Simple History](https://img.shields.io/badge/Django%20Simple%20History-092E20?style=for-the-badge&logo=django&logoColor=white)
