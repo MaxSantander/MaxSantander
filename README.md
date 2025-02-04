@@ -1,4 +1,4 @@
-![Banner](./aboutme/Toi.png)
+![Banner](./Toi.png)
 
 # ¡Hola Mundo! Soy Maximiliano Santander I'm a Developer in Germany.👋
 
