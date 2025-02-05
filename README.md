@@ -79,7 +79,7 @@ _September 2022 - April 2023_
 *Webadministrator und Co-Designer*  
 _Oktober 2016 - Mai 2022_  
 - Gestaltung und Pflege der [Unternehmenswebsite](http://www.principiosbrazil.com/es/default.aspx).
-- Entwicklung Entwicklung einer Benutzeroberfläche für das [Reservierungsverwaltung](https://www.dropbox.com/scl/fi/xdwb0362044sfhfk39g2w/Principios-App-101.m4v?rlkey=qbmpzf2ehugzzm0sn1m8nfptx&e=1&dl=0).
+- Entwicklung einer Benutzeroberfläche für das [Reservierungsverwaltung](https://www.dropbox.com/scl/fi/xdwb0362044sfhfk39g2w/Principios-App-101.m4v?rlkey=qbmpzf2ehugzzm0sn1m8nfptx&e=1&dl=0).
 - Strategien für digitales Marketing und Öffentlichkeitsarbeit.
 - [Marketing/PR](https://www.instagram.com/principiostour/), Koordination von Gruppen- und Besichtigungsreisen. Kundenbesuche.
 
