@@ -1,128 +1,104 @@
 ![Banner](./Toi.png)
 
-# ¡Hola Mundo! Soy Maximiliano Santander I'm a Developer in Germany.👋
+# Hola! Soy Max Santander — Developer in Regensburg, Germany
 
-Entwickler von Software mit Erfahrung in Webentwicklung und Systemadministration. Leidenschaft für die Erstellung effizienter und skalierbarer Lösungen.
+Softwareentwickler und Systemadministrator bei [IT Point Network Solution GmbH](https://www.it-point.de). Leidenschaft für automatisierte Systeme, Backend-Architekturen und saubere Deployments.
 
-📫 **Kontakt:**
-- **E-Mail:** max.santander@outlook.com
-- **Telefon:** +49 174 7590 459
-- **Standort:** Regensburg, Deutschland
+📫 **Kontakt:** max.santander@outlook.com · Regensburg, Deutschland
 
-## 🛠️ Technologien und Tools
+---
 
-### 🗣️ Sprachen
+## Aktuelles Projekt
+
+### [ITP Manager V3](https://github.com/MaxSantander/ITP_Manager_V3) — Backup-Monitoring-System
+
+Vollautomatisiertes System zur Überwachung von Backup-Jobs für IT-Dienstleister. Importiert E-Mails via IMAP, ordnet sie Kunden und Jobs zu, erkennt Status und Intervalle automatisch und alarmiert bei Ausfällen.
+
+<table>
+<tr>
+<td>
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td>
+
+**Zahlen**
+
+| | |
+|---|---|
+| Tests | 412+ (pytest + Playwright) |
+| CI/CD | 4 Checks via GitHub Actions |
+| Pipeline | 4-Stufen (Zuordnung → Scoring → Frequenz → Alarm) |
+| Deploy | Docker Compose auf Debian 12 |
+
+</td>
+</tr>
+</table>
+
+**Architektur-Highlights:**
+- **4-Stufen-Pipeline:** Kundenzuordnung (E-Mail/Domain), Job-Matching mit gewichtetem Scoring, automatische Frequenzanalyse, Überfälligkeitsprüfung mit MISSING-Status
+- **Echtzeit-Dashboard:** Kunden-Baum mit Status-Dots, KPIs, Problem-Jobs, durchsuchbare E-Mail-Timeline
+- **Job-Editor:** AND/Ausschluss-Logik, Phrasensuche, OR-Gruppen mit Live-Matching-Vorschau
+- **TDD-Mandat:** Jede Änderung braucht einen Test. 412+ Tests grün vor jedem Merge
+- **On-Premise:** Vollständig selbst gehostet, keine Cloud-Abhängigkeit
+
+> In aktiver Entwicklung: Benachrichtigungssystem, Tagesberichte, Kundenreports (SPEC-101 bis SPEC-105)
+
+---
+
+## Technologien und Tools
+
+### Sprachen
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Frameworks / Libraries
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 🗄️ Datenbanken
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Versionskontrolle
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🖥️ IDEs / Editoren
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-
-### ☁️ Container & Orchestrierung
+### Datenbanken & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🔌 Weitere Tools & Services
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Django Simple History](https://img.shields.io/badge/Django%20Simple%20History-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Deepseek API](https://img.shields.io/badge/Deepseek%20API-555555?style=for-the-badge)
-![JTL-Software](https://img.shields.io/badge/JTL--Software-555555?style=for-the-badge)
-
-### 💻 Systeme
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🧑‍💻 Berufserfahrung
+---
 
-**RIS Web-& Software-Development GmbH & Co. KG, Regensburg**  
-*Softwareentwickler*  
-_Mai 2023 - Februar 2024_  
-- Entwicklung von [Webanwendungen](https://ris-development.de/projekte-und-referenzen/).
-- Entwicklung eines eigenen [CMS](https://github.com/MaxSantander/risdev) auf Basis von Django.  
-- Implementierung von RESTful APIs, Redis-Caching und Backend-Diensten.  
-- Agile Zusammenarbeit zur Bereitstellung skalierbarer, multilingualer Weblösungen.
+## Berufserfahrung
 
-**Werner Schmelmer GmbH & Co. KG, Sankt Englmar**  
-*Auszubildender Elektroniker für Energie- und Gebäudetechnik*  
-_September 2022 - April 2023_  
-- Installation und Wartung elektrischer Systeme in gewerblichen Gebäuden.
-- Diagnose und Behebung elektrischer Probleme.
-- Zusammenarbeit mit multidisziplinären Teams in Bauprojekten.
+**IT Point Network Solution GmbH, Regensburg**
+_Entwickler & Systemadministrator_ · 2024 – heute
+- Entwicklung und Betrieb des ITP Manager V3 (Backup-Monitoring)
+- Systemadministration: Netzwerk, Server, Backup-Infrastruktur
+- Docker-Deployments auf Debian-Servern
 
-**Principios Tour Operator, Córdoba, Argentinien**  
-*Webadministrator und Co-Designer*  
-_Oktober 2016 - Mai 2022_  
-- Gestaltung und Pflege der [Unternehmenswebsite](http://www.principiosbrazil.com/es/default.aspx).
-- Entwicklung einer Benutzeroberfläche für die [Reservierungsverwaltung](https://www.dropbox.com/scl/fi/xdwb0362044sfhfk39g2w/Principios-App-101.m4v?rlkey=qbmpzf2ehugzzm0sn1m8nfptx&e=1&dl=0).
-- Strategien für digitales Marketing und Öffentlichkeitsarbeit.
-- [Marketing/PR](https://www.instagram.com/principiostour/), Koordination von Gruppen- und Besichtigungsreisen. Kundenbesuche.
+**RIS Web- & Software-Development GmbH, Regensburg**
+_Softwareentwickler_ · Mai 2023 – Feb 2024
+- Django-basiertes CMS, RESTful APIs, Redis-Caching
+- Agile Entwicklung multilingualer Weblösungen
 
-**Windsor Hotel & Tower, Córdoba, Argentinien**  
-*Kundenservice und Hotelmanagement*  
-_Oktober 2013 - September 2016_  
-- Verwaltung von Reservierungen und Kundenservice.
-- Implementierung von [Marketingstrategien](https://www.instagram.com/windsorhotel/?hl=es) und Öffentlichkeitsarbeit.
-- Überwachung der täglichen Hotelabläufe.
+**Principios Tour Operator, Córdoba, Argentinien**
+_Webadministrator & Co-Designer_ · 2016 – 2022
+- Unternehmenswebsite, Reservierungssystem, digitales Marketing
 
-**Córdoba Adventures/Campo Base, Córdoba/Mendoza, Argentinien**  
-*Reiseleiter und Webdesigner*  
-_Januar 2004 - Oktober 2013_  
-- Planung und Durchführung von Touristenprogrammen.
-- Gestaltung und Pflege der [Unternehmenswebsite](https://hostelcampobase.com.ar/).
-- Verwaltung von Logistik und Personal.
+---
 
-## 🎓 Weiterbildung
+## Sprachen
 
-**Deutsch C1 – Deutsch für Studium und Beruf**  
-*Klett Sprachen (Selbststudium)*  
-_Januar 2025 - Heute_
-
-**Deutsche Sprache Niveau B1 (Vollzeit)**  
-*VHS Regensburg*  
-_November 2011 - November 2012_  
-- Zertifizierung: B1 Goethe Institut.
-
-**Programmierung (Analista de Sistemas - ohne Abschlussarbeit)**  
-*IRESM - Universidad Tecnológica (Carlos Paz, Argentinien)*  
-_Februar 2001 - November 2004_
-
-**Sekundarschulbildung**  
-*Instituto Nuestra Señora del Rosario (Bialet Massé, Argentinien)*  
-_Februar 1996 - November 2000_  
-- Abschluss: Hochschulzugangsberechtigung.
-
-## 🌐 Sprachen
-
-- **Spanisch:** Muttersprache
-- **Deutsch:** B2
-- **Englisch:** B2
-
-
-
+Spanisch (Muttersprache) · Deutsch (B2) · Englisch (B2)
